@@ -1,0 +1,13 @@
+# main links
+main:
+   - title: "Blog"
+     url: categories/blog/
+
+   - title: "Code"
+     url: categories/coding/
+
+   - title: "Project"
+     url:  categories/project/
+
+   - title: "amview(link)"
+     url:  https://amview.powerinmd.com

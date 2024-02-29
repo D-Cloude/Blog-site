@@ -1,0 +1,30 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<img src="https://github.com/INMD1/blog-site/blob/main/assets/image/banner.jpg?raw=true" 
+style=" width: 100vw; height: 30vh; 
+        object-fit: cover;
+        ">
+<h2>최근 포스트</h2>
+<h4>최근에 올린 포스터를 보여줌니다.</h4>
+<hr sytle="border: 0;
+    height: 3px;
+    background: #ccc;">
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
