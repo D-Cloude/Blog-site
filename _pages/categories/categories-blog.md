@@ -3,7 +3,7 @@ layout: archive
 permalink: categories/blog/
 author_profile: true
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/assets/image/blog/mainpage.jpg" 
+<img src=" https://github.com/D-Cloude/Blog-site/blob/main/assets/image/startpage.jpg?raw=true" 
 style=" width: 100vw; height: 30vh; 
         object-fit: cover;
         ">
