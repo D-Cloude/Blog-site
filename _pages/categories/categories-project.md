@@ -4,7 +4,7 @@ permalink: categories/project/
 author_profile: true
 sidebar_main: true
 ---
-<img src="https://github.com/INMD1/blog-site/blob/main/assets/image/project.jpg?raw=true"
+<img src="{{ site.url }}{{ site.baseurl }}/assets/image/projects/mainpage.jpg" 
 style=" width: 100vw; height: 30vh;
         object-fit: cover;
         ">

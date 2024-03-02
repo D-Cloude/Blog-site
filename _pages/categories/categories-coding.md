@@ -3,7 +3,7 @@ layout: archive
 permalink: categories/coding/
 author_profile: true
 ---
-<img src="https://github.com/INMD1/blog-site/blob/main/assets/image/codeing.jpg?raw=true" 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/image/coding/mainpage.jpg" 
 style=" width: 100vw; height: 30vh; 
         object-fit: cover;
         ">
