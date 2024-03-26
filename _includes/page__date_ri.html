@@ -1,0 +1,7 @@
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% if page.last_modified_at %}
+  <p class="page__date">작성일자:</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: date_format }}</time></p>
+{% elsif page.date %}
+  <p class="page__date">작성일자:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time></p>
+{% endif %}
+
