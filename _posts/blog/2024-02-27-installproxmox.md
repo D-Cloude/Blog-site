@@ -35,8 +35,6 @@ categories: blog
 ![img]({{ site.url }}{{ site.baseurl }}/assets/image/blog/proxmoxinstall/04.png)
 ###  10. 사용할 비밀번호와 Email 입력 후 다음으로.
 
-> 이번에 사용한: [dod54321!, {Email}]
-
 ![img]({{ site.url }}{{ site.baseurl }}/assets/image/blog/proxmoxinstall/05.png)
 ### 11. 네트워크 설정 
 관리 인터페이스, 호스트 이름, IP 주소, 게이트웨이, DNS 서버에 각각 값을 설정 후 다음으로. 
