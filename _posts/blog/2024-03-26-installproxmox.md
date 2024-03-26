@@ -4,7 +4,7 @@ categories: blog
 ---
 서버를 묶어서 통합적으로 관리하기 위해서 "Proxmox"라는 가상화 플랫폼을 설치 해보았다.
 
-## 설치 방법
+## Proxmox 설치 방법
 
 **1. "PROXMOX ISO 파일"을 다운받아 "USB"에 구워준다.**
 
