@@ -8,6 +8,6 @@ Solved.ac 에 등록된 특정 학교에서 풀지 않은 문제를 알려주는
 ## Deu Solved - 제작중
 
 ### 1. 링크
-> [Deu Solved](https://deusolved.vercel.app/dashboard)
+> [Deu Solved](https://deusolved.vercel.app)
 
 - - -
