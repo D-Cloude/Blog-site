@@ -1,3 +1,8 @@
+---
+title:  "Docker컨테이너에 mongoDB 생성하기"
+categories: blog
+---
+
 # 도커에 mongoDB를 생성하는 법
 ## 1️⃣ 도커 이미지 다운로드
 먼저 도커에 mongoDB 이미지를 다운로드 합니다.
