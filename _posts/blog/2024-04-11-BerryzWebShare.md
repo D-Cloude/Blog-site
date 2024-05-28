@@ -15,8 +15,7 @@ UPnL에서 제작했던 파일 공유 서버 "Berryz WebShare" 설치하고 사�
 ## Berryz WebShare 설치 - Windows
 
 ### 1. 파일 설치
-> zip파일 다운 후 압축 해제.
->> [Berryz_WebShare.zip](https://github.com/D-Cloude/Blog-site/files/14943304/Berryz_WebShare.zip)
+> Berryz WebShare 파일 다운
 
 ### 2. 실행
 > WebShare.exe 파일 실행.
